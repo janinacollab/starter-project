@@ -1,3 +1,10 @@
+# INSTRUCTIONS
+
+1. To run the project locally `yarn start`.
+2. `ctrl + c`
+3. After making changes, delete build folder `npm run deploy` and refresh.
+4. For tracking use this image: https://github.com/AR-js-org/AR.js/blob/master/aframe/examples/image-tracking/nft/trex-image-big.jpeg
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

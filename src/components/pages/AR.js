@@ -9,7 +9,7 @@ class AR extends React.Component {
                 arjs="trackingMethod: best; sourceType: webcam;debugUIEnabled: false;"
             >
                 <a-nft
-                url="https://janinacollab.github.io/starter-project/trex-image/trex"
+                url="./trex-image/trex"
                 type="nft"
                 smooth="true"
                 smoothCount="10"

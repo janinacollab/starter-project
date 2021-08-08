@@ -1,6 +1,6 @@
 {
     "name": "starter-project",
-    "homepage": "https://janinacollab.github.io/starter-project/",
+    "homepage": "https://cors-anywhere.herokuapp.com/https://janinacollab.github.io/starter-project/",
     "version": "0.1.0",
     "dependencies": {
         "@testing-library/jest-dom": "^5.11.4",
